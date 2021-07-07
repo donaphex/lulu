@@ -23,6 +23,7 @@
 	"MO_PUB_BANNER_ID":"60b4b8ae2ac14848b14422c9bc57d3f4",
 	"MO_PUB_INTERSTITIAL_ID":"65570c87b88e4e4ba9ff2c1acb00e5f9",
 	
-	"whichAds":0,
+	"whichAds":1,
 
 	"isLastPageShow":false
+}
